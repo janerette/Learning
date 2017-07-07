@@ -1,0 +1,26 @@
+How to do the JS Issue Tracker
+
+H1 JSS Issue Tracker
+
+CSS style for box
+H2 Add a New Issue
+
+Graphic and Input Field Text
+
+Severity
+Graphic and Input Option feilds (on a 4-6 point scale, like n/a low medium high)
+
+Assigned to: 
+Input Field text
+
+Button Submit "Track Issue"
+
+--
+RELOAD 
+generates issue ID#
+
+Repeats top box and displays second box with new issue below it
+
+includes priority and user assigned
+
+In Issue box there are two buttons: Close and Delete.
