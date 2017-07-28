@@ -1,0 +1,21 @@
+var list[2,3,4,6,7,]
+
+for (var i=0; list.length; i++)
+console.log(list[i])
+
+console.log(list)
+
+
+
+new thing to learn:
+
+.map
+
+list.map(function(item) {
+console.log(item)
+})
+
+
+//He wants us to got through the libray (code there) and to console log each author
+
+Stuff coming through Slack

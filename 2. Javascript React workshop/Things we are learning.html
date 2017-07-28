@@ -1,0 +1,16 @@
+We are doing a todo list
+
+function Person(firstName, lastName) {
+  this.firstName = firstName;
+  this.lastName = lastName;
+}
+
+Person.protoype.hello = function() {
+  console.log("hello", this.firstName + " " + this.lastName)
+}
+
+var Paolo = new Person("Paolo", "Melgarejo");
+
+Paolo.hello();
+
+hello Paolo Melgarejo
